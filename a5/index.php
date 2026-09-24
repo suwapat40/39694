@@ -37,8 +37,8 @@ if (!$my_info) {
                     <p class="mb-1"><strong>ผู้จัดทำ:</strong> นางสาวสุวภัทร ปิงเมือง (เลขที่ 1)</p>
                     <p class="mb-0">
                         <i class="fa-brands fa-github text-dark me-1"></i> <strong>GitHub Repository:</strong> 
-                        <a href="https://github.com/39632/afd/tree/main/a5" target="_blank" class="text-decoration-none">
-                            https://github.com/39632/afd/tree/main/a5
+                        <a href="https://github.com/suwapat40/39694/tree/main/a5" target="_blank" class="text-decoration-none">
+                            https://github.com/suwapat40/39694/tree/main/a5
                         </a>
                     </p>
                 </div>
